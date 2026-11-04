@@ -1,0 +1,26 @@
+{
+  "title": "Afro House-Inspired Melodies",
+  "study": "ah01",
+  "bpm": 120,
+  "source_audio": "preview/afro-house-inspired-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "268200b28eb7d33180fd1f9576b0a2e8aa99d92a3d6969b49cc4095b9cf117c7",
+  "source_midi": "midi/ah01-ochre-line/ah01-ochre-line-combined.mid",
+  "source_midi_sha256": "66e022af1f5026d3f5b3c8ee2b779bead3a3bc569870682e1f7153b147acaf8f",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "fc0bb3a738a6af20b14f844495fe8aebaf0fea2b7e47c83b976a4a182ea734b1",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "41402d7aa2a583a429221d6709e154f8d620060485bfae76a9e08685ca37b63f",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "2ffc3e5bb372c6f63a85e28bd59fa91e32e768d93647aa13f722dfc95b5ef7b8",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
