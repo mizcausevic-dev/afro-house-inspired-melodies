@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/afro-house-inspired-melodies-simple-synth-preview.mp3",
+  "preview_sha256": "268200b28eb7d33180fd1f9576b0a2e8aa99d92a3d6969b49cc4095b9cf117c7",
+  "source_midi_path": "midi/ah01-ochre-line/ah01-ochre-line-combined.mid",
+  "source_midi_sha256": "66e022af1f5026d3f5b3c8ee2b779bead3a3bc569870682e1f7153b147acaf8f",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "ah01",
+    "start_seconds": 0,
+    "end_seconds": 64.0
+  },
+  "measurement": {
+    "sample_peak": 0.125091,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

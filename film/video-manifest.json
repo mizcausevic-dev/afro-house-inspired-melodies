@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/afro-house-inspired-melodies-simple-synth-preview.mp3",
+  "source_audio_sha256": "268200b28eb7d33180fd1f9576b0a2e8aa99d92a3d6969b49cc4095b9cf117c7",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "8686ba243a7624cac6b467910583d31dec0273b3730bfbcb2651d722fa972c1c",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

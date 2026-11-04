@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ah01,Ochre Line,pack-local equal-tempered pitch collection,D,120,4/4,480,32,61440,midi/ah01-ochre-line/ah01-ochre-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ah02,Open Courtyard,pack-local equal-tempered pitch collection,F,120,4/4,480,32,61440,midi/ah02-open-courtyard/ah02-open-courtyard-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ah03,Interlock,pack-local equal-tempered pitch collection,G#,120,4/4,480,32,61440,midi/ah03-interlock/ah03-interlock-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ah04,Morning Return,pack-local equal-tempered pitch collection,D#,120,4/4,480,32,61440,midi/ah04-morning-return/ah04-morning-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
