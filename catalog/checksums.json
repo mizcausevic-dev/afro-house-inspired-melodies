@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 798,
-      "sha256": "164e8007af499b8d35891c33428ca456915d7ab1160a562293d031ffe832b8b9"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3920,
-      "sha256": "8607de613ed6308331943ccac539b7f9087ce26dab16f062187b0f1c4f57f944"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -203,8 +193,8 @@
     },
     {
       "path": "downloads/afro-house-inspired-melodies-midi.zip",
-      "bytes": 27680,
-      "sha256": "c43e0205842d91b26d1b1b6b0bc93ba65181ed335827d79ffd8dfa4e3f8c662b"
+      "bytes": 29774,
+      "sha256": "5d25074a7b2195c914d1171cb41907285e6f5081f5e33eb69c6e4f62de7985b9"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -225,11 +215,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 33235,
       "sha256": "f28c2e1caf29d4b5435b28c54dad3345dce8f5116f9805af142923173ef0cac9"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1175540,
-      "sha256": "2ffc3e5bb372c6f63a85e28bd59fa91e32e768d93647aa13f722dfc95b5ef7b8"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -258,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9639,
-      "sha256": "07ea8eec648337d20ad51d4df3c112a592d6ab55cb6ad14a6a75ebe9d14df717"
+      "bytes": 9829,
+      "sha256": "879917de18c5a257c999fc3e58dbf560512492445b4dbaab457f8b19511cac03"
     },
     {
       "path": "midi/ah01-ochre-line/ah01-ochre-line-combined.mid",
@@ -402,6 +387,16 @@
       "sha256": "b9c01f82aac2f9ab849f586af586e07d249a983e53cd1562a961f8f28b480e12"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 798,
+      "sha256": "164e8007af499b8d35891c33428ca456915d7ab1160a562293d031ffe832b8b9"
+    },
+    {
       "path": "preview/afro-house-inspired-melodies-simple-synth-preview.mp3",
       "bytes": 1549836,
       "sha256": "268200b28eb7d33180fd1f9576b0a2e8aa99d92a3d6969b49cc4095b9cf117c7"
@@ -410,6 +405,11 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1137,
       "sha256": "4b5f30603d29f504e6dd1ebd8c7a144bec9012a20a7baf762914c32e554d3cd4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4035,
+      "sha256": "69e0e7f0d300a3ce25e007fa67b13a76979b17955af4d2ec958dd0b016e46117"
     },
     {
       "path": "social/instagram/caption.txt",
